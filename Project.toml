@@ -1,6 +1,6 @@
 name = "micromamba_jll"
 uuid = "f8abcde7-e9b7-5caa-b8af-a437887ae8e4"
-version = "0.26.0+0"
+version = "1.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
