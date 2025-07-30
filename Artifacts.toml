@@ -1,57 +1,57 @@
 [[micromamba]]
 arch = "aarch64"
-git-tree-sha1 = "98aba21a6802e06a5d2e7c48633d7dc1c3d4a749"
+git-tree-sha1 = "f564c194c53a64ea9508a2815ecb33067e384e40"
 lazy = true
 os = "macos"
 
     [[micromamba.download]]
-    sha256 = "d6e147c2393a6ac54c518bc9ca36e94fd5d471f838c3bccb3b9a06fadf7c5d33"
-    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.8+0/micromamba.v1.5.8.aarch64-apple-darwin.tar.gz"
+    sha256 = "698b62c4c3d7e0e4fd60315201cf0de25cbb2fd826757cc5920786814c30ca25"
+    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.12+0/micromamba.v1.5.12.aarch64-apple-darwin.tar.gz"
 [[micromamba]]
 arch = "aarch64"
-git-tree-sha1 = "528c740035ea96b4091a42660cac663aa0a3f036"
+git-tree-sha1 = "d9fff9a90a8b435e7ad9577d933dfc29ab5ff524"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[micromamba.download]]
-    sha256 = "3965f07cca66db6c2cd4843f558a8a615e677e6c478b25e1ec83c2fb6b412079"
-    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.8+0/micromamba.v1.5.8.aarch64-linux-gnu.tar.gz"
+    sha256 = "cdd8f83cdc741f1fd630c56152145ca1ea81e88c16ccce3b1b5095c3f30ae24c"
+    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.12+0/micromamba.v1.5.12.aarch64-linux-gnu.tar.gz"
 [[micromamba]]
 arch = "powerpc64le"
-git-tree-sha1 = "ea04b531507510aad720bae65ac3c5e20a0da1b6"
+git-tree-sha1 = "7905d9d6ec08f05b95fd84946d2f3a6ab0ea2897"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[micromamba.download]]
-    sha256 = "6c1adfaca6613179bbf014c3f6c3d761a23de058619ada12e988d3d74385cc5f"
-    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.8+0/micromamba.v1.5.8.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "bbb15330ddba2ea7d9de0abe58cfa9afff8a07b912294d45785dd3660d98a352"
+    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.12+0/micromamba.v1.5.12.powerpc64le-linux-gnu.tar.gz"
 [[micromamba]]
 arch = "x86_64"
-git-tree-sha1 = "c26faeb828dad2bd10fa4beb155cf9bbde1c25bb"
+git-tree-sha1 = "89051c60ae89c773ef8ad3cacde956d0305283bb"
 lazy = true
 os = "macos"
 
     [[micromamba.download]]
-    sha256 = "0ef3a499ae574741776c63f60083775823bf5f5ae199f2012bbb41d28d7de573"
-    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.8+0/micromamba.v1.5.8.x86_64-apple-darwin.tar.gz"
+    sha256 = "d7f208b50df1b2961250dc8ae2a5998185490da76b0e147ac2d92cedb4c64088"
+    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.12+0/micromamba.v1.5.12.x86_64-apple-darwin.tar.gz"
 [[micromamba]]
 arch = "x86_64"
-git-tree-sha1 = "7973f2c7725e2d0eef7a95159454c4145f0945a2"
+git-tree-sha1 = "7c4ad8f2d391c6f8127c0c0f65c9ec85b80e5837"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[micromamba.download]]
-    sha256 = "d640cbb82403cf11ee27b6af748b7b4baaafa8ffb011fbf2bcde9dd165028f7f"
-    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.8+0/micromamba.v1.5.8.x86_64-linux-gnu.tar.gz"
+    sha256 = "2d39ef64b7010581289626bf8f613e355131b453c1225b37d78978f838ee6de0"
+    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.12+0/micromamba.v1.5.12.x86_64-linux-gnu.tar.gz"
 [[micromamba]]
 arch = "x86_64"
-git-tree-sha1 = "cba433181fa6470b206db49415f1b7593a9d25ff"
+git-tree-sha1 = "e2186c495339478b9d2992fa21edd824592d4de0"
 lazy = true
 os = "windows"
 
     [[micromamba.download]]
-    sha256 = "21c0f823ce3bbb6d506c127c5a9076ba760504fa62517a3785e1e36677779bb6"
-    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.8+0/micromamba.v1.5.8.x86_64-w64-mingw32.tar.gz"
+    sha256 = "46880db258cd0b051419770d4e26cd02ca132e0388b6894f7fee6b89ad8da3a6"
+    url = "https://github.com/JuliaBinaryWrappers/micromamba_jll.jl/releases/download/micromamba-v1.5.12+0/micromamba.v1.5.12.x86_64-w64-mingw32.tar.gz"
